@@ -5,7 +5,7 @@ This repository contains a Power BI dashboard showing caffeine consumption level
 The dashboard was inspired by the [workout-wednesday 2023 week 15 power BI](https://workout-wednesday.com/pbi-2023-w15/) challenge with data from [Data.world](https://data.world/makeovermonday/2023w9/workspace/file?filename=Coffee+Caffeine+Content.xlsx)
 
 Actual caffeine content in beverages varies widely.
-For healthy adults, the [US Food and Drug Administration has cited 400 milligrams a day as an (safe) ceffeinne amount not generally associated with dangerous, negative effects.](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much)
+For healthy adults, the [US Food and Drug Administration has cited 400 milligrams a day as a (safe) caffeine amount not generally associated with dangerous, negative effects.](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much)
 
 Using data from various coffee sellers namely Costa, Gregs, Pret, Caffe Nero and Starbucks, I analyzed the amount of caffeine in different coffee products that they sell.
 
